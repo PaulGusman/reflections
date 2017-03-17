@@ -19,6 +19,13 @@ use one instead of another?
 - branches are for different versions of code,
 -branches can be local or remote
 
-What is the benefit of having a copy of the last known state of the remote stored locally?
+What is the benefit of having a copy of the last known state of the remote stored
+ locally?
 - you can work on a copy of it without internet access, and incorporate
 -new changes into the version you have been working on
+
+How would you collaborate without using Git or GitHub? What would be easier,
+ and what would be harder?
+
+ - without git and github there would be a tons of different document versions
+ -it would be hard to navigate without it.
