@@ -18,3 +18,7 @@ use one instead of another?
 - clones automatically set up git remote destinations..... when u want to push
 - branches are for different versions of code,
 -branches can be local or remote
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- you can work on a copy of it without internet access, and incorporate
+-new changes into the version you have been working on
