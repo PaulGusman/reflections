@@ -8,3 +8,13 @@ automatically stay up-to-date with your remote repository?
 
 - You dont want half finished versions of code being released.
 - things that arent ready to be released.
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+- forks are a remote clone of a repository that is created and exists on GitHub
+- forks attribute proper credit and ownership when (borrowing or editing) code
+- clones can be to local repositories or remote ones
+- clones automatically set up git remote destinations..... when u want to push
+- branches are for different versions of code,
+-branches can be local or remote
