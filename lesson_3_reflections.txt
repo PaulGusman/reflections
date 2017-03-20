@@ -35,3 +35,7 @@ How would you collaborate without using Git or GitHub? What would be easier,
 
   - its nice to avoid breaking your code.
   - its a little bit more compelx than just working on master, but smarter
+
+
+
+  new note
